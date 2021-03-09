@@ -1,7 +1,0 @@
-[answer53]
-
-df['name'].str.upper()
-
-
-[Tips]
-str.upper()で大文字を小文字に変換
